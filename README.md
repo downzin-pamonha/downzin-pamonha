@@ -1,4 +1,6 @@
-<img align="center" src="./images/Banner.jpeg" style="width: 100%; height: auto;" />
+<div align="center">
+    <img align="center" src="./images/Banner.jpeg" style="width: 100%; height: auto;" />
+</div>
 
 ###
 
@@ -6,9 +8,6 @@
     <div align="center">
         <h1>✨ Welcome, I'm Downzin! ✨</h1>
         <p>ありがとう</p>
-        <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=Downzin01&icon=0&color=0" alt="Visit Count" />
-        </a>
     </div>
     <img align="right" alt="Coding" width="150" src="./images/floating-1.png">
     <p align="left">
