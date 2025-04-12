@@ -113,7 +113,7 @@
 ---
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Downzin01/Downzin01/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/downzin-pamonha/downzin-pamonha/output/snake.svg" alt="Snake animation" />
 
 ###
 
