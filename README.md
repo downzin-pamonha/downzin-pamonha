@@ -1,6 +1,4 @@
-<div align="center">
-    <img align="center" src="./images/Banner.jpeg" style="width: 100%; height: auto;" />
-</div>
+<img align="center" src="./images/banner.jpeg" style="width: 100%; height: auto;" />
 
 ###
 
