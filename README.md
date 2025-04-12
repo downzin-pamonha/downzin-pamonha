@@ -118,6 +118,6 @@
 ###
 
 <div>
-  <img align="left" height='200' src='./images/footer-1.gif'>
-  <img align="right" height='200' src="./images/footer-2.png" alt="Spotify recently played">
+  <img align="left" height='150' src='./images/footer-1.gif'>
+  <img align="right" height='150' src="./images/footer-2.png" alt="Spotify recently played">
 </div>
