@@ -51,13 +51,13 @@
     <div align="center">
         <h3>✨ Databases 💻</h3>
         <div align="center">
-            <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="MySQL, MongoDB, SQLite" />
+            <img src="https://skillicons.dev/icons?i=,,,,mysql,mongodb,sqlite,,,," alt="MySQL, MongoDB, SQLite" />
         </div>
     </div>
     <div align="center">
         <h3>📚 Technologies, Languages & Software I Want to Learn 💻</h3>
         <div align="center">
-            <img src="https://skillicons.dev/icons?i=java,rust,swift,tailwind,threejs,vite,blender" alt="PHP, Java, Rust, Swift" />
+            <img src="https://skillicons.dev/icons?i=,java,rust,swift,tailwind,threejs,vite,blender, ," alt="PHP, Java, Rust, Swift" />
             <br>
             <img src="https://skillicons.dev/icons?i=,vue,babel,docker,firebase,unreal,ae,androidstudio," alt="Tailwind, Three.js, Vite, Vue, Babel, Docker, Firebase" />
             <br>
