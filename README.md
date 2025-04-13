@@ -20,8 +20,7 @@
 
 <section id="conhecimento">
     <div align="center">
-        <h1>✨ Conhecimentos e Linguagens 💻</h1>
-        <p>知識</p>
+        <h1>✨ knowledge and languages 💻</h1>
     </div>
     <img align="left" alt="Coding" width="150" src="./images/floating-2.png"> 
     <p align="left">
