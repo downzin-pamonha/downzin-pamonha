@@ -7,11 +7,10 @@
 
 </div>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=downzin-pamonha&label=Profile%20views&color=4169E1&style=for-the-badge" alt="profile views" >
-    &nbsp;
-    <a href="https://github.com/downzin-pamonha?tab=followers">
-        <img src="https://img.shields.io/github/followers/downzin-pamonha?label=Followers&style=for-the-badge&color=4169E1&labelColor=1a1b27" alt="followers" />
-    </a>
+    
+![](https://komarev.com/ghpvc/?username=downzin-pamonha&label=Profile%20views&color=4169E1&style=for-the-badge)
+![](https://img.shields.io/github/followers/downzin-pamonha?label=Followers&style=for-the-badge&color=4169E1&labelColor=1a1b27)
+
 </div>
 
 ---
